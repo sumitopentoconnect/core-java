@@ -1,0 +1,5 @@
+rootProject.name = 'corejava'
+
+include 'java8'
+include 'java9'
+include 'java10'
