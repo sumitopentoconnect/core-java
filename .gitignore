@@ -1,0 +1,31 @@
+# Eclipse artifacts, including WTP generated manifests
+
+# IDEA artifacts and output dirs
+**/.settings
+**/.classpath
+**/.project
+**/.history
+**/*.class
+**/.gradle/*
+**/.dbeaver/*
+**/Scripts/*
+
+.gradle/
+*.port
+*.pid
+*.class
+*.prefs
+
+.DS_Store
+
+build/
+eclipse/
+bin/
+
+.idea
+
+
+.dbeaver/
+Scripts/
+
+.vscode/
