@@ -1,0 +1,10 @@
+apply plugin: 'application'
+
+mainClassName = 'com.example.corejava.CoreJavaApplication'
+
+dependencies {
+}
+
+run.doFirst {
+	// Environment variables go here.
+}
